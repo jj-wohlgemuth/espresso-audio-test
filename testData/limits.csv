@@ -1,0 +1,12 @@
+15,15,smoothingBwBins
+12,12,noiseLimitDb
+0.5,0.5,recLenSec
+0,0,disregardSecs
+0,0,pauseSecs
+250,33
+350,18
+450,12
+1500,18
+2500,24
+4000,30
+5000,33
